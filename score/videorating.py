@@ -29,6 +29,7 @@ def main():
         "bunny_vmaf_144p.json": 128,
         "bunny_vmaf_240p.json": 300,
         "bunny_vmaf_360p.json": 658,
+        "bunny_vmaf_480p.json": 950,
         "bunny_vmaf_720p.json": 1926,
         "bunny_vmaf_1080p.json": 4881
     }
